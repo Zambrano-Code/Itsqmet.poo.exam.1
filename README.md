@@ -34,7 +34,7 @@ CREAR UN MENÚ BEBIDAS
 
 - **Opción 1:** Solicitar tipo, tipo de Botella, litros, precio, porcentaje que tiene de azúcar, y si tiene o no alguna promoción. Desplegar la paca de bebida azucarada comprada con su respectivo: tipo, tipo de botella, litros, precio (aplicar el descuento si es necesario), y porcentaje de azúcar.
 
-** *Imprimir* **
+***Imprimir***
 
 |  Tipo |  % Azucar  | Promoción  | Tipo Botella   | Litros | Precio  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -42,7 +42,7 @@ CREAR UN MENÚ BEBIDAS
 
 - ** Opción 2**: Solicitar marca, tipo de botella, litros y precio. Desplegar la paca de agua compradas con su respectiva: marca, tipo de botella, litros, y precio.
 
-** *Imprimir* **
+***Imprimir***
 
 |  Marca | Tipo Botella  | Litros  | Precio  |
 | ------------ | ------------ | ------------ | ------------ |
@@ -53,7 +53,7 @@ CREAR UN MENÚ BEBIDAS
 - **Opción 3: **Cantidad de pacas de bebidas azucaradas con descuento, la cantidad de pacas de agua por cada marca, total a pagar por todas las bebidas azucaradas, y total a pagar por todas las aguas.
 
 
-** *Imprimir* **
+***Imprimir***
 > Cantidad de pacas de bebidas azucaradas con descuento: 2
 > 
 > Cantidad de pacas de tesalia: 2

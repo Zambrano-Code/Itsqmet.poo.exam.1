@@ -40,7 +40,7 @@ CREAR UN MENÚ BEBIDAS
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 |  Gaseosas | 80  | true  |  plástico | 1  |  8 |
 
-- ** Opción 2**: Solicitar marca, tipo de botella, litros y precio. Desplegar la paca de agua compradas con su respectiva: marca, tipo de botella, litros, y precio.
+- **Opción 2:** Solicitar marca, tipo de botella, litros y precio. Desplegar la paca de agua compradas con su respectiva: marca, tipo de botella, litros, y precio.
 
 ***Imprimir***
 
@@ -50,7 +50,7 @@ CREAR UN MENÚ BEBIDAS
 
 
 
-- **Opción 3: **Cantidad de pacas de bebidas azucaradas con descuento, la cantidad de pacas de agua por cada marca, total a pagar por todas las bebidas azucaradas, y total a pagar por todas las aguas.
+- **Opción 3:** Cantidad de pacas de bebidas azucaradas con descuento, la cantidad de pacas de agua por cada marca, total a pagar por todas las bebidas azucaradas, y total a pagar por todas las aguas.
 
 
 ***Imprimir***
